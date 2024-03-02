@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract modOne {
+contract FunctionAnderrors {
     address public owner;
     uint256 public value;
 
